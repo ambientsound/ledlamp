@@ -345,18 +345,12 @@ UsedLibrary="/home/kimt/eagle/caracas/caracas.lbr"
 UsedLibrary="/home/kimt/prosjekter/ledlamp/eagle/E14_Arduino_revB.lbr"
 
 [Win_1]
-Type="Control Panel"
-Loc="0 0 1919 1060"
-State=2
-Number=0
-
-[Win_2]
 Type="Schematic Editor"
 Loc="0 0 1919 1060"
 State=2
 Number=1
 File="ledlamp.sch"
-View="6.35374 -32.1471 228.248 110.499"
+View="77.8805 -2.27586 206.292 80.274"
 WireWidths=" 0 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.1524"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -395,8 +389,14 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
-Views=" 1: 6.35374 -32.1471 228.248 110.499"
+Views=" 1: 77.8805 -2.27586 206.292 80.274"
 Sheet=1
+
+[Win_2]
+Type="Control Panel"
+Loc="0 0 1919 1060"
+State=2
+Number=0
 
 [Win_3]
 Type="Board Editor"
@@ -404,7 +404,7 @@ Loc="0 0 1919 1060"
 State=2
 Number=2
 File="ledlamp.brd"
-View="27.4246 -12.8857 125.033 73.3108"
+View="13.0395 0.292422 80.8231 60.1511"
 WireWidths=" 0 0.254 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -442,7 +442,7 @@ SwapLevel=0
 ArcDirection=0
 AddLevel=2
 PadsSameType=0
-Layer=48
+Layer=1
 
 [Desktop]
 Screen="3840 1080"
